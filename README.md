@@ -2,7 +2,7 @@
 
 ----
 
-STATUS - this repo is no longer updated as I've switched to a P52s. I did have success booting a P52s initially with the content this repo. Subsequent tweaks for that machine are stored at <https://github.com/kk1987/P52s-hackintosh> which might be a better reference for P52s/T580/T480 due to the hardware similarity (most notably T480s seems to use a different TrackPad/TrackPoint implementation.)
+STATUS - this repo is no longer updated as I've switched to a P52s. I did have success booting a P52s initially with the content of this repo. Subsequent tweaks for that machine are stored at <https://github.com/kk1987/P52s-hackintosh> which might be a better reference for P52s/T580/T480 due to the hardware similarity (most notably T480s seems to use a different TrackPad/TrackPoint implementation.)
 
 ----
 
